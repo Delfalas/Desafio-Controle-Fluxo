@@ -1,0 +1,1 @@
+Desafio de projeto proposto para explorar alguns cenários com fluxos condicionais, repetições e excepcionais. Exercício para fundamentar o conteúdo ministrado no curso da DIO implementando um pequeno sistema contador.
